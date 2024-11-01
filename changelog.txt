@@ -1,0 +1,17 @@
+== Submit Content - Changelog ==
+
+This file is formatted with Markdown: https://daringfireball.net/projects/markdown/syntax
+
+You can view the file directly, or use a free Markdown editor such as: https://dillinger.io/
+
+More recent changelog info is available in the `readme.txt` file, located in the plugin's root directory.
+
+
+**1.1**
+
+* Rich text editor added
+* Each shortcode is now able to save to different types of posts or custom posts
+
+**1.0**
+
+* Initial release

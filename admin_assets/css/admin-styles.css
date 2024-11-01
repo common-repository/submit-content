@@ -1,0 +1,47 @@
+form#wpbt-sc-generator table tr.wpbt_sc_nonce,
+form#wpbt-sc-generator table tr[class*="_text"] {
+  display: none;
+}
+
+.sc-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1080px;
+  margin-top: 2rem;
+}
+.sc-table tr th {
+  text-align: left;
+}
+
+.sc-table td,
+.sc-table th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+}
+
+.no-shortcodes {
+  text-align: center;
+}
+
+.sc-table tr td ul {
+  list-style: disc;
+  margin-left: 1rem;
+}
+
+.sc-table tr td ul ul {
+  list-style: lower-roman;
+}
+
+.sc-success-badge {
+  background: #28a745;
+  border-radius: 12px;
+  color: #fff;
+  padding: 0px 14px 4px 14px;
+}
+
+.sc-error-badge {
+  background: #dc3545;
+  border-radius: 12px;
+  color: #fff;
+  padding: 0px 14px 4px 14px;
+}
